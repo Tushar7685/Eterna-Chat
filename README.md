@@ -1,5 +1,7 @@
 ## EternaChat
 
+Visit Here : https://eterna-chat.vercel.app/ 
+
 A Real-Time Chat Application
 
 Introducing EternaChat, a real-time chat application designed to enhance your communication experience. Built with React JS for creating dynamic user interfaces, EternaChat is powered by Node JS, Express JS, and MongoDB for a robust backend.
