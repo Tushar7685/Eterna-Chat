@@ -1,4 +1,4 @@
-EternaChat
+## EternaChat
 
 A Real-Time Chat Application
 
@@ -33,6 +33,13 @@ EternaChat is fully responsive and optimized for both mobile and desktop devices
 
 
 
+
+
+
+
+
+
+
 ## Note
 
 This website is still under development. If you find any bugs, please report them. Contributions are welcome! For significant changes, please open an issue to discuss your ideas before submitting a pull request.
@@ -42,25 +49,33 @@ This website is still under development. If you find any bugs, please report the
 
 https://eterna-chat.vercel.app/
 
+## Deployment
+
+To deploy this project run
+
+```bash
+  npm run deploy
+```
+
+
+## Documentation
+
+[Documentation](https://linktodocumentation)
+
 
 ## Environment Variables
 
 To run this project, you will need to add the following environment variables to your .env file
 
-
-`NODE_ENV`=`development`
-
-`PORT`=`5000`
-
-`MONGO_URI`=`<yourMongoDbUri>`
-
-`JWT_SECRET`=`<yourSecret>`
-
-`CLOUD_NAME`=`<yourCloudName>`
-
-`API_KEY`=`<yourClodinary_Api_Key>`
-
-`API_SECRET`=`<your cloudinary_Api_Secret>`
+```bash
+NODE_ENV=development
+PORT=5000
+MONGO_URI=<yourMongoDbUri>
+JWT_SECRET=<yourSecret>
+CLOUD_NAME=<yourCloudName>
+API_KEY=<yourClodinary_Api_Key>
+API_SECRET=<your cloudinary_Api_Secret>
+```
 
 
 
