@@ -1,6 +1,6 @@
-## EternaChat
+# EternaChat
 
-Visit Here : https://eterna-chat.vercel.app/ 
+Visit here: https://eterna-chat.vercel.app/
 
 A Real-Time Chat Application
 
