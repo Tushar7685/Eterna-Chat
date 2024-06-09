@@ -167,7 +167,7 @@ const Login = () => {
           </VStack>
         </Box>
       </Box>
-    </motion.div>
+    </motion.div >
   );
 };
 
