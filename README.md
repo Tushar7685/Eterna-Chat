@@ -31,15 +31,6 @@ EternaChat is fully responsive and optimized for both mobile and desktop devices
 - Profile picture upload for users.
 - Provide desktop or mobile notifications for new messages.
 
-
-
-
-
-
-
-
-
-
 ## Note
 
 This website is still under development. If you find any bugs, please report them. Contributions are welcome! For significant changes, please open an issue to discuss your ideas before submitting a pull request.
@@ -48,19 +39,6 @@ This website is still under development. If you find any bugs, please report the
 ## Demo
 
 https://eterna-chat.vercel.app/
-
-## Deployment
-
-To deploy this project run
-
-```bash
-  npm run deploy
-```
-
-
-## Documentation
-
-[Documentation](https://linktodocumentation)
 
 
 ## Environment Variables
